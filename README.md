@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is inthira khongthaisong
 =============================================================================================================================================
 
-* 🌍  I'm based in Thailland : phoyao
+* 🌍  I'm based in Thailland 
 * ✉️  You can contact me at [inthirakhongthaisong@gmail.com](mailto:inthirakhongthaisong@gmail.com)
 
 ### Skills
